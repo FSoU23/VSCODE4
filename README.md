@@ -6,7 +6,6 @@
 ---
 
 ## 💻 Лендинг на Bootstrap
-*(место под скрины)*
 <img width="2542" height="1348" alt="image" src="https://github.com/user-attachments/assets/5a93703d-e13a-4923-a573-21de789d08b3" />
 <img width="2543" height="1350" alt="image" src="https://github.com/user-attachments/assets/e48e94ad-6859-47d8-b363-0c1159fa5b1d" />
 <img width="2526" height="1337" alt="image" src="https://github.com/user-attachments/assets/c1643eee-2ab0-4e71-8cde-5517eb2d9dde" />
