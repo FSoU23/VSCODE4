@@ -40,20 +40,9 @@ Tailwind не очень подходит для небольших проект
 
 #### 🟦 Bootstrap
 ```html
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-  <div class="container">
-    <a class="navbar-brand fw-bold" href="#">AI Assistant Pro</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+<!-- Из hero-section -->
+<button class="btn btn-primary btn-lg">Начать бесплатно</button>
 
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item"><a class="nav-link" href="#hero">Главная</a></li>
-        <li class="nav-item"><a class="nav-link" href="#about">О продукте</a></li>
-        <li class="nav-item"><a class="nav-link" href="#features">Преимущества</a></li>
-        <li class="nav-item"><a class="nav-link" href="#footer">Контакты</a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
+<!-- Из pricing section -->
+<button class="btn btn-outline-light">Выбрать план</button>
+<button class="btn btn-light">Популярный выбор</button>
