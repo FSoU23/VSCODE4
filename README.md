@@ -7,11 +7,19 @@
 
 ## 💻 Лендинг на Bootstrap
 *(место под скрины)*
+<img width="2542" height="1348" alt="image" src="https://github.com/user-attachments/assets/5a93703d-e13a-4923-a573-21de789d08b3" />
+<img width="2543" height="1350" alt="image" src="https://github.com/user-attachments/assets/e48e94ad-6859-47d8-b363-0c1159fa5b1d" />
+<img width="2526" height="1337" alt="image" src="https://github.com/user-attachments/assets/c1643eee-2ab0-4e71-8cde-5517eb2d9dde" />
+<img width="2538" height="1350" alt="image" src="https://github.com/user-attachments/assets/9002c294-f5af-4593-a8e4-12355180f6b7" />
 
----
+
 
 ## 💻 Лендинг на Tailwind
-*(место под скрины)*
+<img width="2535" height="1348" alt="image" src="https://github.com/user-attachments/assets/6c9405fa-b292-4d99-8936-f35dd9ef26b2" />
+<img width="2538" height="1345" alt="image" src="https://github.com/user-attachments/assets/fe85fb4f-5aa1-47a8-8821-c53117cfb40c" />
+<img width="2519" height="1341" alt="image" src="https://github.com/user-attachments/assets/1d82258f-3a60-4d8e-a35c-b59dc69d5375" />
+<img width="2526" height="1349" alt="image" src="https://github.com/user-attachments/assets/676b3dba-2005-4ebe-9c6e-ffc568146493" />
+
 
 ---
 
