@@ -46,7 +46,7 @@ Tailwind не очень подходит для небольших проект
 <!-- Из pricing section -->
 <button class="btn btn-outline-light">Выбрать план</button>
 <button class="btn btn-light">Популярный выбор</button>
-
+```
 #### 🟦 Tailwind
 ```html
 <!-- Из hero-section -->
@@ -61,4 +61,4 @@ Tailwind не очень подходит для небольших проект
 <button class="w-full bg-white text-highlight font-bold py-3 rounded-lg hover:bg-gray-100 transition-all">
     Приобрести
 </button>
-
+```
