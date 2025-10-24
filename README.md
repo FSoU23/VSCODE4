@@ -43,8 +43,8 @@ Tailwind не очень подходит для небольших проект
 <button class="btn btn-primary btn-lg">Начать бесплатно</button>
 
 <!-- Из pricing section -->
-<button class="btn btn-outline-light">Выбрать план</button>
-<button class="btn btn-light">Популярный выбор</button>
+<button class="btn btn-outline-light">Приобрести</button>
+<button class="btn btn-light">Приобрести</button>
 ```
 #### 🟦 Tailwind
 ```html
